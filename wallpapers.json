@@ -15,14 +15,6 @@
     {
       "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Fitness.JPG",
       "CategoryName": "Fashion"
-    },
-    {
-      "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Ethnic.JPG",
-      "CategoryName": "Movies"
-    },
-    {
-      "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Ethnic.JPG",
-      "CategoryName": "Ethnics"
     }
   ],
   "Categories": [
@@ -153,76 +145,6 @@
         {
           "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/41.jpg",
           "name": "Fashion"
-        }
-      ],
-      "Flame": [
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/10.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/11.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/12.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/13.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/14.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/15.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/29.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/30.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/31.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/32.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/33.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/33.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/34.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/35.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/36.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/37.jpg",
-          "name": "Flame"
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/38.jpg",
-          "name": "Flame"
         }
       ]
     }
